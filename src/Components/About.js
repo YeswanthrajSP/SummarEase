@@ -2,7 +2,7 @@ import React from "react";
 import AboutBackground from "../Assets/about-background.png";
 import AboutBackgroundImage from "../Assets/MicrosoftTeams-image (11).png";
 
-import { BsFillPlayCircleFill } from "react-icons/bs";
+// import { BsFillPlayCircleFill } from "react-icons/bs";
 
 const About = () => {
   return (

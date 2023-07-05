@@ -16,7 +16,7 @@ const Summarizer = () => {
         />
       </div>
       <div className="about-section-text-container">
-        <h1 className="primary-heading">Audio Summarizer</h1>
+        <h1 className="primary-heading">Text Summarizer</h1>
         <p className="primary-text">
           Text to summary: Transform lengthy documents into concise, insightful
           summaries with ease. Empower your productivity, make informed

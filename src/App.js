@@ -11,6 +11,7 @@ function App() {
     <div className="App">
       <Home />
       <About />
+
       <Summarizer />
       <Summarizer1 />
       <Contact />
